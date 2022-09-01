@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
-function Bingo() {
+function Bingo() 
+    //Ver el código funcionando en: https://entrevista-juan-sabbatini.netlify.app/
   let column1 = [];
   let column2 = [];
   let column3 = [];
