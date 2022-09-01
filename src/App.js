@@ -4,6 +4,7 @@ import Form from './Form'
 import {Routes, Route} from 'react-router-dom'
 
 const App = () => {
+  //Ver el código funcionando en: https://entrevista-juan-sabbatini.netlify.app/
   return (
     <Routes>
       <Route exact path="/" element={<Bingo/>}/>
